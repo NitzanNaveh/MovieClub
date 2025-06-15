@@ -2,14 +2,17 @@
 
 Welcome to Movie Club! 
 
-Whether you're passionate about the latest movie, or looking for your next movie obsession — Movie Club is the place to be. With smart AI-powered recommendations and a vibrant community, you'll always have something to watch and someone to talk about it with.
+Whether you're passionate about the latest movie, or looking for your next movie obsession — 
+Movie Club is the place to be.
+With smart AI-powered recommendations, you are welcome to join us and get the best recommendation! 
 
 ---
 
 ![Movie Club Logo](https://res.cloudinary.com/durmfgxnv/image/upload/v1750022413/Logo_gd47ek.png)
+
 ---
 
-## Tech Stack
+## 🛠 **Tech Stack**
 
 🎨 **React** – Responsive and dynamic UI on the frontend.
 
@@ -23,10 +26,12 @@ Whether you're passionate about the latest movie, or looking for your next movie
 
 🤖 **AI Movie Reccomendation** – Powered by Google Gemini API for natural language processing.
 
-🎬 **External APIs** – IMDb API for movie metadata, ratings & posters.
+🎬 External APIs – IMDb API for movie metadata, ratings & posters.
+
 ---
 
 ## 📸 Screenshots
+
 Here's a peek at Movie Club in action!
 
 ## Login Page
@@ -49,6 +54,7 @@ Here's a peek at Movie Club in action!
 
 ## About Us Page
 ![About Us Page](https://res.cloudinary.com/durmfgxnv/image/upload/v1750021828/Screenshot_2025-04-23_at_14.12.45_uj3qmf.png)
+
 ---
 
 
@@ -67,12 +73,12 @@ Please report it in [GitHub Issues](https://github.com/NitzanNaveh/MovieClub/iss
 ⭐ Enjoyed the project? 
 
 Give us a star (⭐) on GitHub to show your support!
----
+
 
 ## 📜 License
 
 This project is open-source and licensed under the MIT License.
----
+
 
 ## © Copyright
 © 2025 [Nitzan Naveh, Bar Kobi, Yonatan Cohen].
