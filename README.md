@@ -46,13 +46,18 @@ Here's a peek at Movie Club in action!
 ## 👨‍💻 Contributing
 If you have new ideas, want to report a bug, or add an exciting new feature, your contributions are always welcome.
 
-💡 Have an idea for improvement? Open an [Issue]([Your GitHub Issues Link Here]) or submit a [Pull Request]([Your GitHub Pull Request Link Here]).
-🛠️ Found a bug? Please report it in [GitHub Issues]([Your GitHub Issues Link Here]) with as much detail as possible.
-⭐ Enjoyed the project? Give us a star (⭐) on GitHub to show your support!
+💡 Have an idea for improvement?
+Tell me about it at [Issue](https://github.com/NitzanNaveh/MovieClub/issues).
+
+🛠️ Found a bug?
+Please report it in [GitHub Issues](https://github.com/NitzanNaveh/MovieClub/issues) with as much detail as possible.
+
+⭐ Enjoyed the project? 
+Give us a star (⭐) on GitHub to show your support!
 ---
 
 ## 📜 License
-This project is open-source and licensed under the [Your Chosen License, e.g., MIT License]. See the LICENSE file in the root of the repository for full details.
+This project is open-source and licensed under the MIT License.
 ---
 
 ## © Copyright
