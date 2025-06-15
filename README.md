@@ -1,8 +1,10 @@
 🎬 Movie Club – Your Ultimate Movie Community Forum
+
 Welcome to Movie Club, where film lovers unite!
 Whether you're raving about the latest blockbuster, uncovering hidden gems, or looking for your next movie obsession—Movie Club is the place to be.
 With smart AI-powered recommendations and a vibrant community, you'll always have something to watch and someone to talk about it with.
 
+![Movie Club Logo](https://res.cloudinary.com/durmfgxnv/image/upload/v1750022413/Logo_gd47ek.png)
 
 
 📖 Table of Contents
