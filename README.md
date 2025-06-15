@@ -1,8 +1,10 @@
 ## 🎬 Movie Club – Your Ultimate Movie Community Forum
 
 Welcome to **Movie Club**, a movie culture community.
+
 Whether you're passionate about the latest movie, or looking for your next movie obsession — 
 Movie Club is the place to be.
+
 With smart AI-powered recommendations, you are welcome to join us and make some popcorn 🍿. 
 
 ---
