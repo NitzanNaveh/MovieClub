@@ -1,26 +1,33 @@
 ## 🎬 Movie Club – Your Ultimate Movie Community Forum
-Welcome to Movie Club! Whether you're passionate about the latest movie, or looking for your next movie obsession — Movie Club is the place to be. With smart AI-powered recommendations and a vibrant community, you'll always have something to watch and someone to talk about it with.
+Welcome to Movie Club! 
+Whether you're passionate about the latest movie, or looking for your next movie obsession — Movie Club is the place to be. With smart AI-powered recommendations and a vibrant community, you'll always have something to watch and someone to talk about it with.
+---
 
 ![Movie Club Logo](https://res.cloudinary.com/durmfgxnv/image/upload/v1750022413/Logo_gd47ek.png)
+---
 
 ## 📖 Table of Contents
-🔹 Key Features
 🛠 Tech Stack
 📸 Screenshots
 👨‍💻 Contributing
 📜 License
 © Copyright
-📌 Key Features
 ---
 
 ## Tech Stack
 
 🎨 **React** – Responsive and dynamic UI on the frontend.
+
 🧠 **TypeScript** – Type-safe development for maintainability across frontend & backend.
+
 🌍 **Node.js** + **Express.js** – Robust backend with scalable API handling.
+
 📦 **MongoDB** – Flexible NoSQL database for user content, movies, and recommendations.
+
 🔐 **JWT** (JSON Web Tokens) – Secure user authentication.
+
 🤖 **AI Movie Reccomendation** – Powered by Google Gemini API for natural language processing"].
+
 🎬 **External APIs** – IMDb API for movie metadata, ratings & posters.
 ---
 
